@@ -298,4 +298,3 @@ VALUES
 * Comment préparer les bases pour la **cartographie et la gouvernance des données (Module 02)**.
 
 
-Souhaitez-vous que je te fournisse **un script SQL complet (.sql)** prêt à exécuter (création + insertion + anomalies intégrées) et **un document Word structuré (cours + TP corrigé)** pour impression et diffusion aux étudiants ?
