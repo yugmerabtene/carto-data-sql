@@ -231,6 +231,3 @@ Ce module prépare directement la **troisième journée** :
 
 > *Module 03 — Audit de qualité et conformité des données*,
 > où les étudiants exploiteront cette cartographie pour **détecter, corriger et tracer** les anomalies de contenu.
-
-
-Souhaitez-tu que je te prépare maintenant le **Module 03 complet** (Audit de la qualité et conformité des données, avec exemples de code, TP et livrables) ?
