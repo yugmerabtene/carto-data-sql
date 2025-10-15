@@ -270,7 +270,7 @@ VALUES
 
 ---
 
-## 7. Livrable attendu (fin du Module 01)
+## 7. Livrable attendu LAB-01 (fin du Module 01)
 
 À la fin de ce module, chaque apprenant doit remettre :
 
