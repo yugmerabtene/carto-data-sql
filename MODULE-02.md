@@ -1,9 +1,5 @@
 # MODULE 02 — CARTOGRAPHIE ET GOUVERNANCE DES DONNÉES
 
-## Durée
-
-1 journée (7 heures)
-
 ## Objectifs pédagogiques
 
 À l’issue de ce module, le participant sera capable de :
@@ -203,7 +199,7 @@ Créer un **dictionnaire de données complet et automatisé**, puis en extraire 
 
 ---
 
-## 9. Livrables attendus (fin du Module 02)
+## 9. Livrables attendus LAB-02 (fin du Module 02)
 
 Chaque apprenant doit produire :
 
