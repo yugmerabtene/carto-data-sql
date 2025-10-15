@@ -1,7 +1,5 @@
 # MODULE — CARTOGRAPHIE, GOUVERNANCE ET SÉCURITÉ DES DONNÉES POUR L’INTELLIGENCE ARTIFICIELLE
 
-**Durée :** 1 à 2 jours (7 à 14 heures)
-**Niveau :** Avancé
 **Public visé :** architectes data, auditeurs SI, data scientists, RSSI, chefs de projet IA
 **Référentiels :** ISO/IEC 27001 :2022, ISO/IEC 27701, ISO/IEC 29100, ISO/IEC 23894, RGPD, AI Act
 
