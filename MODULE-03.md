@@ -254,7 +254,7 @@ SELECT * FROM rapport_audit;
 
 ---
 
-## 8. Travaux pratiques (TP-03) — Audit qualité et conformité SQL
+## 8. LAB-03 — Audit qualité et conformité SQL
 
 ### Objectif général
 
