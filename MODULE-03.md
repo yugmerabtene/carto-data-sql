@@ -1,9 +1,5 @@
 # MODULE 03 — AUDIT DE LA QUALITÉ ET CONFORMITÉ DES DONNÉES
 
-## Durée
-
-1 journée (7 heures)
-
 ## Objectifs pédagogiques
 
 À l’issue de ce module, le participant sera capable de :
