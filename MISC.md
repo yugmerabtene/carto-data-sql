@@ -259,7 +259,3 @@ Le cycle complet forme la **chaîne de confiance des données IA**.
 2. Schéma de flux et de dépendances (diagramme ou outil).
 3. Tableau de conformité RGPD / ISO 27001 / AI Act.
 4. Rapport synthétique de gouvernance IA (Word ou PDF).
-
----
-
-Souhaites-tu que je te **mette ce module au format Word** (mise en page professionnelle avec titres hiérarchisés, tableaux, encadrés pédagogiques et niveau de confidentialité ISO 27001) pour l’intégrer à ton plan de formation ?
