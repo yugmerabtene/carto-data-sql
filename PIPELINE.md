@@ -223,18 +223,7 @@ Conformité : RGPD / ISO 27001 / ISO 20889 / AI Act
 ---
 
 ## Partie 7 — Évaluation finale
-
-| Critère              | Description                                          | Points  |
-| -------------------- | ---------------------------------------------------- | ------- |
-| Audit structurel     | Table `audit_structure` correctement remplie         | 4       |
-| Dictionnaire         | Table `dictionnaire_donnees` complète et classée     | 4       |
-| Données brutes       | Table `theses_staging` cohérente                     | 3       |
-| Anonymisation        | Table `theses_anonymisees` fonctionnelle et conforme | 4       |
-| Rapport final        | Rapport complet, daté et bien structuré              | 3       |
-| Présentation et logs | Lisibilité, propreté, respect des étapes             | 2       |
-| **Total**            |                                                      | **/20** |
-
----
+# Aucune eval pour cet excerice
 
 ## Partie 8 — Extension possible (travail bonus)
 
