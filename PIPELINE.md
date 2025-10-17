@@ -1,4 +1,4 @@
-# TP — Audit, Dictionnaire et Anonymisation de Données (Pipeline theses.fr)
+# Audit, Dictionnaire et Anonymisation de Données (Pipeline theses.fr)
 
 ## Objectifs pédagogiques
 
